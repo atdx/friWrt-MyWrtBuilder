@@ -10,7 +10,7 @@
 #
 #=====================================================================================
 
-name: Generate friWrt Amlogic Firmware
+name: Generate Amlogic Firmware
 
 on:
   workflow_dispatch:
