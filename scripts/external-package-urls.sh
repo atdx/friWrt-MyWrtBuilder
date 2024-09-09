@@ -34,11 +34,7 @@ files1=(
     "luci-app-diskman|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
     "luci-app-cpu-status-mini|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
     "luci-app-disks-info|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
-    "luci-app-log-viewer|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
     "luci-app-temp-status|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
-    "luci-app-internet-detector|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
-    "internet-detector|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
-    "internet-detector-mod-modem-restart|https://dl.openwrt.ai/23.05/packages/$ARCH_3/kiddin9"
 )
 
 echo "###########################################################"
