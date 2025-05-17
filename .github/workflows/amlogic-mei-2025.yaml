@@ -10,7 +10,7 @@
 #
 #=====================================================================================
 
-name: Generate Amlogic Firmware
+name: Amlogic Mei 2025
 
 on:
   workflow_dispatch:
